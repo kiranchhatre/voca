@@ -1,0 +1,6 @@
+*/__pycache__/*
+ds_graph/
+flame/
+model/
+training_data
+animation_output/
